@@ -27,11 +27,11 @@ streamlit\_ml\_app/
 
 ````
 
----
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
+ 🚀 Getting Started
+
+ 1. Clone the Repository
 
 
 git clone https://github.com/your-username/streamlit_ml_app.git
