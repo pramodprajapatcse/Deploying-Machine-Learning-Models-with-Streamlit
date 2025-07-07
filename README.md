@@ -2,19 +2,19 @@
 
 
 ```markdown
-# 🌼 Iris Flower Classification – Streamlit ML App
+🌼 Iris Flower Classification – Streamlit ML App
 
 This project demonstrates how to **train a Machine Learning model** using the classic Iris dataset and **deploy it via a Streamlit web application** for real-time predictions.
 
 
 
-## 🌐 Live Demo
+ 🌐 Live Demo
 
 👉 [Click here to try the live app](https://deploying-machine-learning-models-with-app-nrfmo53qspbesewjaqg.streamlit.app/)
 
 
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 
