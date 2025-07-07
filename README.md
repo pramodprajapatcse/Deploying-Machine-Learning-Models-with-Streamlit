@@ -8,7 +8,7 @@
 This project demonstrates how to **train a machine learning model** using the Iris dataset and **deploy it via a Streamlit web application**.
 ## 🌐 Live Demo
 
-👉 [**Try the App Here**](https://deploying-machine-learning-models-with-app-nrfmo53qspbesewjaqg.streamlit.app/)
+👉 [https://deploying-machine-learning-models-with-app-nrfmo53qspbesewjaqg.streamlit.app/]
 
 ---
 
