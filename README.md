@@ -10,7 +10,7 @@ This project demonstrates how to **train a machine learning model** using the Ir
 
 👉 [https://deploying-machine-learning-models-with-app-nrfmo53qspbesewjaqg.streamlit.app/]
 
----
+
 
 ## 📁 Project Structure
 
