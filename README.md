@@ -40,7 +40,7 @@ cd streamlit_ml_app
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 
-```bash
+
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -48,7 +48,7 @@ venv\Scripts\activate
 # macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
-```
+
 
 ### 3. Install Dependencies
 
@@ -58,33 +58,33 @@ pip install -r requirements.txt
 
 Or install them manually:
 
-```bash
-pip install streamlit scikit-learn pandas matplotlib joblib
-```
 
----
+pip install streamlit scikit-learn pandas matplotlib joblib
+
+
+
 
 ## 🧠 Train the Model
 
 To train the model and save it as a `.pkl` file:
 
-```bash
+
 python train_model.py
-```
+
 
 This will create a file named `iris_model.pkl` in the root directory.
 
----
+
 
 ## 💻 Run the Streamlit App Locally
 
-```bash
+
 streamlit run app.py
-```
+
 
 Then open your browser at [http://localhost:8501](http://localhost:8501).
 
----
+
 
 ## ☁️ Deploy to Streamlit Cloud
 
@@ -102,7 +102,7 @@ Then open your browser at [http://localhost:8501](http://localhost:8501).
 > * `requirements.txt`
 > * `README.md`
 
----
+
 
 ## 📦 Example `requirements.txt`
 
